@@ -1,0 +1,16 @@
+{
+  "name": "nodecw2",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2"
+  }
+}
